@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notificaciones - danielme.com</string>
+    <string name="pulsame">¡Púlsame!</string>
+    <string name="mensajebarra">Nueva notificación disponible</string>
+    <string name="titulo">Título de la notificación</string>
+    <string name="descripcion">Hello World!! Este es el mensaje de la notificación</string>   
+    <string name="desdeNoti">Desde notificación</string>   
+    
+</resources>
